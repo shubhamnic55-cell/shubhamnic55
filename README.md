@@ -1,33 +1,44 @@
-# 👋 Hi, I'm Shubham!
+# 👋 Hi, I'm Shubham Sharma!
 
 ### 🚀 About Me
-I am a passionate developer currently building projects on GitHub. I love exploring new technologies and creating efficient solutions to complex problems.
+I am a dedicated **Full Stack Developer** and **Creative Technologist** with a focus on building immersive digital experiences. My work often bridges the gap between clean code and high-performance visual effects.
 
 * 🌍 Based in **India**
-* 🧠 Learning **Advanced Web Development & AI**
-* 🤝 Open to collaborating on **Open Source Projects**
-* 💬 Ask me about **Particles, Postprocessing, and Game Dev**
+* ⚡ Technical Focus: **Modern Web Architectures & Interactive UI**
+* 🎨 Passionate about: **Creative Coding, Shaders, and Game Mechanics**
+* 🔭 I’m currently working on: **Refining my personal portfolio and AI integrations**
+* 🤝 I’m looking to collaborate on: **Advanced React projects and Creative Tech initiatives**
 
 ---
 
 ### 🛠 Tech Stack
-| Frontend | Backend | Tools |
-| :--- | :--- | :--- |
-| HTML5, CSS3, JS | Node.js | Git, GitHub |
-| React | SQL / NoSQL | VS Code |
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | React.js, Vue.js, Angular, Three.js, GSAP |
+| **Backend** | Node.js, Express, ASP.NET MVC, GraphQL |
+| **Database** | PostgreSQL, SQL Server, NoSQL |
+| **DevOps/Tools** | Git, GitHub Actions, AWS, VS Code |
+
+---
+
+### 🎨 Creative Interests
+I enjoy pushing the boundaries of the browser by experimenting with:
+* **Particles & Physics:** Creating fluid, life-like animations.
+* **Postprocessing:** Enhancing visuals with bloom, depth of field, and color grading.
+* **Render Textures:** Building complex visual UI elements and dynamic materials.
 
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamnic55-cell&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamnic55-cell&layout=compact&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=shubhamnic55-cell&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamnic55-cell&layout=compact&theme=dark)
 
 ---
 
-### 📫 Connect with me:
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](your-linkedin-link-here)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](your-twitter-link-here)
+### 📫 Let's Connect!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubham-sharma-8bb2b6311/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://theshubhamsharma.in/)
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+> "Logic will get you from A to B. Imagination will take you everywhere." – Albert Einstein
